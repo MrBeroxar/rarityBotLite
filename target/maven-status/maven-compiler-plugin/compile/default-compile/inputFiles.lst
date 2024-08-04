@@ -1,0 +1,12 @@
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/search/KongzCSVReader.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/search/MonkeCSVReader.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/processing/GetIfpsHttpClient.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/slashcommands/BabyCommand.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/businessObjects/KongData.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/messages/MessageBuilderMonke.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/slashcommands/KongCommand.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/slashcommands/MonkeCommand.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/businessObjects/MonkeData.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/main/CommandListener.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/processing/Base64Encode.java
+/Users/timwhooks/eclipse-workspace/rarityBotLite/src/main/java/rarityBot/messages/MessageBuilderKong.java
